@@ -1,5 +1,7 @@
 # 클론 코딩으로 시작하는 Next.js
 
+![(투명)클론코딩_nextjs](https://user-images.githubusercontent.com/21074282/105648953-794ab300-5ef1-11eb-8e79-3e94bf56ed16.png)
+
 - 부제: Next.js와 타입스크립트로 숙박 공유 플랫폼 만들기
 - 저자: 이창주
 - 출간/배본가능일: 2021년 1월 29일
